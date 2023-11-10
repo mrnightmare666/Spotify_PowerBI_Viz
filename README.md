@@ -6,3 +6,4 @@ Data Analysis and Visualization: Conducted in-depth analysis of the Spotify data
 
 Skills -  Python, HTML, Data Visualization, Power BI, Dashboard Creation
 
+![image](https://github.com/mrnightmare666/Spotify_PowerBI_Viz/assets/53763049/16717cca-51bf-4cbd-a12e-f15294e410c0)
